@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+}
+
+.header {
+  background-image: url("http://unsplash.it/800/500");
+  /*background-size: cover;*/
+  padding: 300px;
+  text-align: center;
+}
